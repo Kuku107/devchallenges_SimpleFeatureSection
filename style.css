@@ -79,7 +79,7 @@ header h1 {
     gap: 48px;
     justify-content: center;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: stretch;
 }
 
 @media (max-width: 1024px) {
